@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarshipPlugin", "App\StarshipPlugin.csproj", "{B0943D8A-45FF-4F3C-B372-980FC5AB63E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarshipPlugin", "StarshipPlugin\StarshipPlugin.csproj", "{B0943D8A-45FF-4F3C-B372-980FC5AB63E5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImperialTransport", "ImperialTransport\ImperialTransport.csproj", "{D33C0C95-75BA-46EA-B22A-9766E8E18EC8}"
 EndProject
