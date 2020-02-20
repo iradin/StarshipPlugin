@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Interfaces\Interfaces.csproj" />
+    <ProjectReference Include="..\Shared\Shared.csproj" />
+    <ProjectReference Include="..\StarDestroyer\StarDestroyer.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="autofac" Version="5.1.2" />
+    <PackageReference Include="json.net" Version="1.0.18" />
+  </ItemGroup>
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+</Project>
